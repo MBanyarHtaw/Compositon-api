@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "9832",
+      "title": "test",
+      "body": "test2",
+      "tags": [
+        "php",
+        "vue"
+      ]
+    },
+    {
+      "id": "4180",
+      "title": "Vue",
+      "body": "vuejs",
+      "tags": [
+        "vue"
+      ]
+    },
+    {
+      "id": "3797",
+      "title": "Python",
+      "body": "python",
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "id": "b434",
+      "title": "Coding",
+      "body": "coding method and tech",
+      "tags": [
+        "coding"
+      ]
+    },
+    {
+      "id": "2dc6",
+      "title": "New",
+      "body": "News about Myanmar",
+      "tags": [
+        "news"
+      ]
+    }
+  ]
+}
